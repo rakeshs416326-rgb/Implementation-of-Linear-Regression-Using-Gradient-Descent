@@ -75,6 +75,8 @@ plt.show()
 
 print(f"Final weight (w): {w}")
 print(f"Final bias (b): {b}")
+#name:rakesh s
+#ref no:25018957
 
 ```
 
